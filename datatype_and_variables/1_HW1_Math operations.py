@@ -6,8 +6,8 @@
 #  E.g. even and odd values
 #  E.g. consider zero as first or 2nd number
 
-num1 = int(input("Enter first number:"))
-num2 = int(input("Enter second number:"))
+num1 = float(input("Enter first number:"))
+num2 = float(input("Enter second number:"))
 print(f"{num1} + {num2} = {num1 + num2} ")
 
 print(f"{num1} - {num2} = {num1 - num2} ")
